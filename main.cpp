@@ -81,7 +81,7 @@ string CheckColor(int red, int green, int blue)
 	}
 	else
 	{
-		return "Error";
+		return "White";
 	}
 }
 
